@@ -1,0 +1,67 @@
+RowIndex,OrderID,CustomerName,MissingColumnsCount,MissingColumns,RejectionReason
+3,ORD1158,Ibrahim Musa,1,SalesAmount,Chýbajúce hodnoty v stĺpcoch: SalesAmount
+4,ORD1128,Bob Smith,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+6,ORD1069,Oluwaseun Adebayo,1,Discount,Chýbajúce hodnoty v stĺpcoch: Discount
+7,ORD1170,Lola Ade,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+12,ORD1165,,1,CustomerName,Chýbajúce hodnoty v stĺpcoch: CustomerName
+13,ORD1078,,2,"CustomerName, Discount","Chýbajúce hodnoty v stĺpcoch: CustomerName, Discount"
+16,ORD1056,Lola Ade,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+18,ORD1082,,2,"CustomerName, PhoneNumber","Chýbajúce hodnoty v stĺpcoch: CustomerName, PhoneNumber"
+19,ORD1068,Ibrahim Musa,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+23,ORD1093,,1,CustomerName,Chýbajúce hodnoty v stĺpcoch: CustomerName
+24,ORD1065,Hannah Davis,2,"SalesAmount, PhoneNumber","Chýbajúce hodnoty v stĺpcoch: SalesAmount, PhoneNumber"
+26,ORD1084,Rita Gomez,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+32,ORD1035,Tina Zhang,1,SalesAmount,Chýbajúce hodnoty v stĺpcoch: SalesAmount
+34,ORD1150,,2,"CustomerName, Discount","Chýbajúce hodnoty v stĺpcoch: CustomerName, Discount"
+35,ORD1104,Kevin Patel,1,SalesAmount,Chýbajúce hodnoty v stĺpcoch: SalesAmount
+39,ORD1076,,2,"CustomerName, PhoneNumber","Chýbajúce hodnoty v stĺpcoch: CustomerName, PhoneNumber"
+40,ORD1079,,2,"CustomerName, Discount","Chýbajúce hodnoty v stĺpcoch: CustomerName, Discount"
+43,ORD1024,Rita Gomez,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+46,ORD1029,Ibrahim Musa,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+50,ORD1114,Hannah Davis,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+53,ORD1126,Paul Walker,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+55,ORD1073,Lola Ade,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+64,ORD1035,Ella Brown,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+65,ORD1119,Nina Roberts,1,Discount,Chýbajúce hodnoty v stĺpcoch: Discount
+66,ORD1042,Lola Ade,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+67,ORD1189,Charlie Lee,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+68,ORD1090,,2,"CustomerName, PhoneNumber","Chýbajúce hodnoty v stĺpcoch: CustomerName, PhoneNumber"
+78,ORD1100,Ibrahim Musa,2,"Discount, PhoneNumber","Chýbajúce hodnoty v stĺpcoch: Discount, PhoneNumber"
+81,ORD1077,Ibrahim Musa,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+89,ORD1061,,1,CustomerName,Chýbajúce hodnoty v stĺpcoch: CustomerName
+92,ORD1101,Charlie Lee,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+97,ORD1006,Ella Brown,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+98,ORD1027,Oluwaseun Adebayo,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+101,ORD1032,Nina Roberts,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+103,ORD1145,,1,CustomerName,Chýbajúce hodnoty v stĺpcoch: CustomerName
+104,ORD1109,,2,"CustomerName, PhoneNumber","Chýbajúce hodnoty v stĺpcoch: CustomerName, PhoneNumber"
+111,ORD1000,,1,CustomerName,Chýbajúce hodnoty v stĺpcoch: CustomerName
+112,ORD1198,Quinn Harper,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+114,ORD1070,,1,CustomerName,Chýbajúce hodnoty v stĺpcoch: CustomerName
+118,ORD1163,,2,"CustomerName, DeliveryDate","Chýbajúce hodnoty v stĺpcoch: CustomerName, DeliveryDate"
+120,ORD1040,Mohammed Ali,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+125,ORD1023,,1,CustomerName,Chýbajúce hodnoty v stĺpcoch: CustomerName
+127,ORD1147,,1,CustomerName,Chýbajúce hodnoty v stĺpcoch: CustomerName
+128,ORD1081,Tina Zhang,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+130,ORD1168,George Miller,1,Discount,Chýbajúce hodnoty v stĺpcoch: Discount
+133,ORD1154,Nina Roberts,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+138,ORD1053,Joyce Li,2,"SalesAmount, PhoneNumber","Chýbajúce hodnoty v stĺpcoch: SalesAmount, PhoneNumber"
+139,ORD1133,,2,"CustomerName, PhoneNumber","Chýbajúce hodnoty v stĺpcoch: CustomerName, PhoneNumber"
+149,ORD1083,Fatima Yusuf,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+153,ORD1008,,1,CustomerName,Chýbajúce hodnoty v stĺpcoch: CustomerName
+157,ORD1131,,2,"CustomerName, PhoneNumber","Chýbajúce hodnoty v stĺpcoch: CustomerName, PhoneNumber"
+162,ORD1167,Tina Zhang,1,Discount,Chýbajúce hodnoty v stĺpcoch: Discount
+164,ORD1063,Joyce Li,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+165,ORD1192,,1,CustomerName,Chýbajúce hodnoty v stĺpcoch: CustomerName
+168,ORD1196,Fatima Yusuf,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+174,ORD1031,Fatima Yusuf,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+175,ORD1192,Ella Brown,1,Discount,Chýbajúce hodnoty v stĺpcoch: Discount
+179,ORD1193,,1,CustomerName,Chýbajúce hodnoty v stĺpcoch: CustomerName
+180,ORD1001,David King,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+182,ORD1149,Ibrahim Musa,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+183,ORD1130,Ella Brown,1,Discount,Chýbajúce hodnoty v stĺpcoch: Discount
+184,ORD1151,Kevin Patel,1,PhoneNumber,Chýbajúce hodnoty v stĺpcoch: PhoneNumber
+187,ORD1116,Rita Gomez,1,Discount,Chýbajúce hodnoty v stĺpcoch: Discount
+190,ORD1121,Mohammed Ali,1,Discount,Chýbajúce hodnoty v stĺpcoch: Discount
+194,ORD1071,Lola Ade,1,SalesAmount,Chýbajúce hodnoty v stĺpcoch: SalesAmount
+195,ORD1106,,1,CustomerName,Chýbajúce hodnoty v stĺpcoch: CustomerName
